@@ -1,4 +1,4 @@
-package model;
+package dto;
 
 public class Client {
 	private String Id;
